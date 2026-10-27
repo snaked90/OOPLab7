@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.12.12308.306
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLab7", "OOPLab5\OOPLab7.csproj", "{0E4FD47F-2660-44BB-95EB-5FDD5E230FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLabTests", "OOPLabTests\OOPLabTests.csproj", "{F31E4DFB-D22C-4F94-A908-FD1A04242B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4FD47F-2660-44BB-95EB-5FDD5E230FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4FD47F-2660-44BB-95EB-5FDD5E230FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4FD47F-2660-44BB-95EB-5FDD5E230FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4FD47F-2660-44BB-95EB-5FDD5E230FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31E4DFB-D22C-4F94-A908-FD1A04242B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31E4DFB-D22C-4F94-A908-FD1A04242B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31E4DFB-D22C-4F94-A908-FD1A04242B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31E4DFB-D22C-4F94-A908-FD1A04242B80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58ECCDB2-98A1-4C91-8657-5955CBDE303C}
+	EndGlobalSection
+EndGlobal

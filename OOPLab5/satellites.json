@@ -1,0 +1,20 @@
+[
+  {
+    "satellite_name": "Experimental 1",
+    "satellite_type": "Communication",
+    "altitude_km": 400,
+    "launch_date": "2026-10-27T14:19:18.1045518+02:00"
+  },
+  {
+    "satellite_name": "Experimental 2",
+    "satellite_type": "Communication",
+    "altitude_km": 400,
+    "launch_date": "2026-10-27T14:19:19.4145787+02:00"
+  },
+  {
+    "satellite_name": "Experimental 3",
+    "satellite_type": "Communication",
+    "altitude_km": 400,
+    "launch_date": "2026-10-27T14:19:21.0956297+02:00"
+  }
+]
